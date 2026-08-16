@@ -1,7 +1,7 @@
 # Interview Progress
 
 ## Status
-Baseline completed. Daily interview training begins with Session 001.
+Session 001 completed. Interview difficulty remains A1.
 
 ## Principle
 Interview English starts at A1 and continues in every standard session.
@@ -16,34 +16,32 @@ A1 — Basic professional interview.
 - QA Lead
 - Quality Engineering Manager
 
-## Current Competencies
+## Demonstrated
+- `My role is a QA Engineer.` with minor article support.
+- `I have thirteen years of experience.`
+- Basic QA/workplace responses using `I can...`.
+- Can make a simple professional recommendation with scaffolding.
 
-### Demonstrated
-- State name and QA role with support.
-- State years of QA experience.
-- Give a short reason for improving English.
-- Attempt simple QA definitions.
-
-### Needs Development
-- `Tell me about yourself.`
-- Describe current responsibilities using complete simple sentences.
-- Explain tools used in QA.
-- Answer `Why do you want this role?`
-- Understand interview questions without repeated prompting.
-- Expand answers beyond one short phrase.
-
-## Useful A1 Answer Patterns
+## Needs Development
+- `Tell me about yourself.` as a connected 3–5 sentence answer.
 - `I am a Senior QA Automation Engineer.`
 - `I have thirteen years of experience in QA.`
 - `I work with test automation.`
 - `I use Playwright and TypeScript.`
 - `I can test web applications and APIs.`
+- Understand these questions with less repetition.
+
+## Current A1 Introduction Target
+The learner should gradually be able to produce, without memorizing mechanically:
+
+`My name is Eduardo. I am a Senior QA Automation Engineer. I have thirteen years of experience in QA. I work with test automation. I use Playwright and TypeScript.`
 
 ## Completed Interviews
 - Session 000 — Baseline mini-interview
+- Session 001 — Basic role/experience practice embedded in onboarding
 
 ## Next Interview
-Session 001: professional introduction.
+Session 002: build the first complete professional introduction.
 
 Target questions:
 - `Tell me about yourself.`
