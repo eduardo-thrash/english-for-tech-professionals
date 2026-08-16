@@ -89,6 +89,37 @@ Business example: `I do not recommend changing the scope today.`
 
 The learner should understand both what to say and why English works that way.
 
+## Session Phrase Pack — mandatory
+
+Every completed standard session must produce a small set of high-value phrases that the learner should be able to say naturally in future sessions.
+
+- Select approximately 5–10 phrases from actual needs, corrections and situations observed during that session.
+- Prefer reusable chunks over isolated vocabulary words.
+- Include a mix of workplace/QA, communication-repair and interview phrases when relevant.
+- Keep phrases appropriate to the learner's current CEFR level; progressively make them more sophisticated.
+- Do not create an excessive memorization list. Prioritize phrases with high frequency and transfer value.
+- Say the Phrase Pack aloud during the verbal close and include it in the persisted session record.
+- For each phrase, include a short Spanish meaning at A1/A2 when useful.
+- Mark 2–3 phrases as **Priority phrases** for the learner to practice most.
+
+Phrase learning is retrieval-based, not passive memorization:
+
+1. At the beginning of the next session, retrieve 2–5 important phrases from prior sessions without first showing/giving the answer.
+2. Reuse previous phrases naturally inside later FlowCart simulations and interviews.
+3. Track whether the learner can produce them independently, with a hint, after modeling, or not yet.
+4. Keep weak/high-value phrases in rotation across sessions until they become spontaneous.
+5. Retire phrases from active rotation when they are consistently produced correctly, while occasionally revisiting them later.
+
+Example Session Phrase Pack:
+- **Priority:** `Could you repeat that, please?` — ¿Puedes repetir eso, por favor?
+- **Priority:** `I need the requirements.` — Necesito los requerimientos.
+- **Priority:** `I do not recommend releasing today.` — No recomiendo hacer el release hoy.
+- `There is a bug in the login flow.` — Hay un bug en el flujo de login.
+- `Users cannot log in.` — Los usuarios no pueden iniciar sesión.
+- `I can test it.` — Puedo probarlo.
+
+The objective is for useful professional language to become automatic through repeated production in realistic contexts.
+
 ## Listening speed
 
 Track listening speed independently:
@@ -108,12 +139,12 @@ Difficulty also includes sentence length, contractions, connected speech, vocabu
 
 Target structure:
 
-1. 5 min — warm-up and retrieval practice
+1. 5 min — warm-up and retrieval practice, including previous Phrase Pack retrieval
 2. 25 min — FlowCart workplace simulation
 3. 10 min — targeted learning with academic explanation of high-value errors/patterns
 4. 10 min — listening/speaking/pronunciation practice
 5. 8 min — interview practice
-6. 2 min — verbal close and structured feedback
+6. 2 min — verbal close, structured feedback and Session Phrase Pack
 
 Timing is approximate. Preserve the 30-minute workplace / 30-minute learning-and-interview balance.
 
@@ -160,11 +191,12 @@ When the learner says `Close English session`:
 2. Record strengths and recurring errors.
 3. Record new useful expressions.
 4. Record the key academic patterns taught and why they matter.
-5. Update skill levels only when evidence supports it.
-6. Update listening speed when promotion/demotion criteria are met.
-7. Update FlowCart state.
-8. Update interview progress.
-9. Create a concise session record.
-10. Set the next focus and next session.
+5. Record the Session Phrase Pack and Priority phrases.
+6. Update skill levels only when evidence supports it.
+7. Update listening speed when promotion/demotion criteria are met.
+8. Update FlowCart state.
+9. Update interview progress.
+10. Create a concise session record.
+11. Set the next focus and next session.
 
 Do not store full transcripts unless specifically needed for an assessment. Store useful learning evidence and state instead.
